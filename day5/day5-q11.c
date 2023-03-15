@@ -11,9 +11,9 @@ main() {
 }
 
 float power_of_three(int x) {
-    if (x != 0)
-        return (3 * power_of_three(x - 1));
-    
-    else
+    if (x == 0)
         return 1;
+            
+    else
+        return (3 * power_of_three(x - 1));
 }
