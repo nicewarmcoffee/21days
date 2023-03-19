@@ -4,7 +4,7 @@ int x, y;
 int multiply(int x, int y);
 float divide(int x, int y);
 
-main() {
+int main() {
     printf("enter two numbers: \n");
     scanf("%d%d", &x, &y);
 

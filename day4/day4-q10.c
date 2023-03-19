@@ -1,7 +1,7 @@
 /* a program with problems... */
 #include <stdio.h>
 int x = 1;
-main() {
+int main() {
     if (x == 1)
         printf("x equals 1");
     else

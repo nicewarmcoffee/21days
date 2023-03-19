@@ -4,7 +4,7 @@
 
 int a;
 
-main() {
+int main() {
     a = (5 == 5); /* evaluates to 1 */
     printf("\na = (5 == 5)\na = %d", a);
 

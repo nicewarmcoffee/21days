@@ -2,7 +2,7 @@
 
 void print_msg(void);
 
-main() {
+int main() {
     print_msg();
 }
 

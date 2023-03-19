@@ -3,7 +3,7 @@
 #include <stdio.h>
 int a, b, c;
 int product(int x, int y);
-main() {
+int main() {
     /* Input the first number */
     printf("Enter a number between 1 and 100: ");
     scanf("%d", &a);

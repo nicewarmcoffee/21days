@@ -1,7 +1,7 @@
 /* ex2-4.c */
 #include <stdio.h>
 
-main() {
+int main() {
     int ctr;
 
     for (ctr = 65; ctr < 91; ctr++)

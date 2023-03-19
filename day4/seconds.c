@@ -11,7 +11,7 @@
 
 unsigned seconds, minutes, hours, secs_left, mins_left;
 
-main() {
+int main() {
     /* Input the number of seconds */
 
     printf("Enter number of seconds (< 65000): ");

@@ -3,7 +3,7 @@
 int x;
 float power_of_three(int x);
 
-main() {
+int main() {
     printf("enter a number: \n");
     scanf("%d", &x);
 

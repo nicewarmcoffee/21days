@@ -4,7 +4,7 @@
 
 int x, y;
 
-main() {
+int main() {
     /* input the two values to be tested */
 
     printf("\nInput an integer value for x: ");

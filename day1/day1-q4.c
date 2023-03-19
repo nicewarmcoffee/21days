@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main(){
+int main(){
 	printf("Keep looking!");
 	printf("You\'ll find it!");
 	return 0;

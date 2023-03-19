@@ -7,7 +7,7 @@ void do_heading(char *filename);
 
 int line, page;
 
-main(int argv, char *argc[]){
+int main(int argv, char *argc[]){
 	char buffer[256];
 	FILE *fp;
 

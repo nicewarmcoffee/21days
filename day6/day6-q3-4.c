@@ -6,7 +6,7 @@
 
 int x, ctr;
 
-main() {
+int main() {
  for (x = 0; x < 100; x++)
     ;
  printf("\n%d", x);

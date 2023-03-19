@@ -3,7 +3,7 @@
 
 int a, b;
 
-main() {
+int main() {
     /* Set a and b both equal to 5 */
     a = b = 5;
 

@@ -8,7 +8,7 @@ const int NEXT_CENTURY = 2000;
 int weight_in_grams, weight_in_pounds;
 int year_of_birth, age_in_2000;
 
-main() {
+int main() {
     /* input data from user */
 
     printf("Enter your weight in pounds: ");

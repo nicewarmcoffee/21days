@@ -5,7 +5,7 @@ long cube(long x);
 
 long input, answer;
 
-main() {
+int main() {
     printf("Enter an integer value: ");
     scanf("%d", &input);
     answer = cube(input);

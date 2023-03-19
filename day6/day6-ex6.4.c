@@ -5,7 +5,7 @@
 
 int array[10];
 
-main() {
+int main() {
     int ctr = 0, nbr = 0;
 
     printf("This program prompts you to enter 10 numbers\n");

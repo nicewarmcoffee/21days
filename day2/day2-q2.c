@@ -3,7 +3,7 @@
 
 void display_line(void);
 
-main() {
+int main() {
     display_line();
     printf("\n Teach Yourself C In 21 Days!\n");
     display_line();

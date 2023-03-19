@@ -4,7 +4,7 @@
 
 void draw_box(int row, int column);
 
-main() {
+int main() {
     draw_box(8, 35);
 }
 

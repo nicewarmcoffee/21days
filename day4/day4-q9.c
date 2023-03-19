@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int age;
-main() {
+int main() {
     printf("Enter your age: " );
     scanf("%d", &age);
 

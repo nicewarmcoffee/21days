@@ -4,7 +4,7 @@
 
 int count;
 
-main() {
+int main() {
     /* Print the numbers 1 through 20 */
 
     count = 1;

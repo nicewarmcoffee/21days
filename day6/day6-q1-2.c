@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 long numbers[50];
-main() {
+int main() {
     numbers[49] = 123.456; /* note: long is longer integer, not float */
     printf("%ld", numbers[49]);
 }

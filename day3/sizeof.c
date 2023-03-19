@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-main() {
+int main() {
     printf("\nA char    is %d bytes", sizeof(char));
     printf("\nAn int    is %d bytes", sizeof(int));
     printf("\nA short   is %d bytes", sizeof(short));

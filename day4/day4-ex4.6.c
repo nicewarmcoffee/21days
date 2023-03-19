@@ -7,7 +7,7 @@
 int a = 5, b = 6, c = 5, d = 1;
 int x;
 
-main() {
+int main() {
     /* Evaluate the expression without parentheses */
 
     x = a < b || a < c && c < d;

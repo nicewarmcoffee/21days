@@ -4,7 +4,7 @@
 
 int get_menu_choice(void);
 
-main() {
+int main() {
     int choice;
 
     choice = get_menu_choice();

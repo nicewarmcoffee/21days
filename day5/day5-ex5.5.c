@@ -6,7 +6,7 @@ Calculates the factorial of a number. */
 unsigned int f, x;
 unsigned int factorial(unsigned int a);
 
-main() {
+int main() {
     puts("Enter an integer value between 1 and 8: ");
     scanf("%d", &x);
 

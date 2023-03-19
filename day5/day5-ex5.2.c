@@ -6,7 +6,7 @@ float x = 3.5, y = 65.11, z;
 
 float half_of(float k);
 
-main() {
+int main() {
     /* In this call, x is the argument to half_of(). */
     z = half_of(x);
     printf("The value of z = %f\n", z);

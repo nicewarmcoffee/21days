@@ -7,7 +7,7 @@ void display_usage(void);
 
 int line;
 
-main(int argv, char *argc[]) {
+int main(int argv, char *argc[]) {
     char buffer[256];
     FILE *fp;
 

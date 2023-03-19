@@ -4,7 +4,7 @@
 
 int x, y, z;
 
-main() {
+int main() {
     printf("for:\n");
     for (x = 1; x <= 100; x += 3)
         printf("\n%d", x);

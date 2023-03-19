@@ -6,7 +6,7 @@ int x, y, z;
 
 int larger_of(int a, int b);
 
-main() {
+int main() {
     puts("Enter two different integer values: ");
     scanf("%d%d", &x, &y);
 
