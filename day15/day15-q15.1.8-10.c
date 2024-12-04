@@ -24,6 +24,7 @@ char getFirst(char *x[]) {
     /* remember x is array of strings */
     /* x[0] would be "hello world!" */
     /* x[1] is nothing! */
-    char y = x[0][1];
+    /* x[0][0] first character of x[0] */
+    char y = x[0][0];
     return y;
 }
