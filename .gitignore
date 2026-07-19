@@ -1,0 +1,9 @@
+# Local IDE settings
+.vscode/
+
+# Application runtime / execution outputs
+run/
+
+# (Optional) Common VS Code workspace artifacts you usually want to ignore
+*.code-workspace
+.history/
